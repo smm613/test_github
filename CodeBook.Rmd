@@ -1,6 +1,6 @@
-Title
+Assignment for Peer Review -- CodeBook
 ========================================================
-Assignment for Peer Review
+
 Source: Human Activity Recognition Using Smartphones Data Set
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
